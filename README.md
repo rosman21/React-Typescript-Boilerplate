@@ -3,7 +3,7 @@
 ## Things to install before starting
 
 1. `npm install -g tslint`
-2. `if using VSCODE install the tslint extension by (microsoft)[https://github.com/Microsoft/vscode-typescript-tslint-plugin]`
+2. if using VSCODE install the tslint extension by [microsoft](https://github.com/Microsoft/vscode-typescript-tslint-plugin)
 
 ## Run Project
 
